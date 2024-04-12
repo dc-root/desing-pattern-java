@@ -10,7 +10,6 @@ import me.dcdev.gof.strategy.Robot;
 public class Main {
     public static void main(String[] args) {
         // Singleton
-
         SingletonLazyHolder lazy = SingletonLazyHolder.getInstance();
         System.out.println(lazy);
         lazy = SingletonLazyHolder.getInstance();
