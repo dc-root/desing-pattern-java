@@ -1,4 +1,4 @@
-package me.dcdev.gof.desafios.calculadora;
+package me.dcdev.designpatternjava.desafios.calculadora;
 
 import java.util.Scanner;
 

@@ -1,11 +1,11 @@
-package me.dcdev.gof;
+package me.dcdev.designpatternjava;
 
-import me.dcdev.gof.singleton.SigletonEager;
-import me.dcdev.gof.singleton.SingletonLazyHolder;
-import me.dcdev.gof.strategy.ComportamentoAgressivo;
-import me.dcdev.gof.strategy.ComportamentoDefenssivo;
-import me.dcdev.gof.strategy.ComportamentoNormal;
-import me.dcdev.gof.strategy.Robot;
+import me.dcdev.designpatternjava.singleton.SigletonEager;
+import me.dcdev.designpatternjava.singleton.SingletonLazyHolder;
+import me.dcdev.designpatternjava.strategy.ComportamentoAgressivo;
+import me.dcdev.designpatternjava.strategy.ComportamentoDefenssivo;
+import me.dcdev.designpatternjava.strategy.ComportamentoNormal;
+import me.dcdev.designpatternjava.strategy.Robot;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package me.dcdev.gof.strategy;
+package me.dcdev.designpatternjava.strategy;
 
 public class ComportamentoNormal implements Comportamento {
     @Override

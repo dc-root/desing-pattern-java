@@ -1,4 +1,4 @@
-package me.dcdev.gof.desafios.carrinho_compra;
+package me.dcdev.designpatternjava.desafios.carrinho_compra;
 
 import java.util.ArrayList;
 import java.util.List;

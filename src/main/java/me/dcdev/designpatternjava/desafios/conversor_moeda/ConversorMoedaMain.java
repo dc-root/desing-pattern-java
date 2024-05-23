@@ -1,4 +1,4 @@
-package me.dcdev.gof.desafios.conversor_moeda;
+package me.dcdev.designpatternjava.desafios.conversor_moeda;
 
 import java.util.Scanner;
 

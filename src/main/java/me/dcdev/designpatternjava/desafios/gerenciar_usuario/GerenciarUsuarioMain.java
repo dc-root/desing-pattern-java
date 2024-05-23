@@ -1,4 +1,4 @@
-package me.dcdev.gof.desafios.gerenciar_usuario;
+package me.dcdev.designpatternjava.desafios.gerenciar_usuario;
 
 import java.util.ArrayList;
 import java.util.List;

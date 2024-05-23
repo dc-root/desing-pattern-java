@@ -1,4 +1,4 @@
-package me.dcdev.gof.singleton;
+package me.dcdev.designpatternjava.singleton;
 
 /**
  * Singleton "Apressado"

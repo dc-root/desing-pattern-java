@@ -1,4 +1,4 @@
-package me.dcdev.gof.desafios.catalogo_produto;
+package me.dcdev.designpatternjava.desafios.catalogo_produto;
 
 import java.util.ArrayList;
 import java.util.List;
